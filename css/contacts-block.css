@@ -1,0 +1,73 @@
+
+
+.contact-icons-images{
+    padding-right: 10px;
+    float: left;
+}
+
+.contact-type{
+    color: #555555;
+    font-family: Montserrat,sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.contact-text{
+    margin-top: 14px;
+    margin-left: 20px;
+    padding-bottom: 35px;
+    color: #555555;
+    font-family: "Roboto Slab",sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.input-window-small-top [type="text"], .input-window-small-bottom [type="text"], .input-window-big [type="text"]
+{
+    color: #555555;
+    font-family: "Roboto Slab",sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.input-window-small-top{
+    margin-bottom: 20px;
+}
+
+.input-window-big{
+    margin-top: 20px;
+}
+
+.input-name, .input-subject, .input-email, .input-company-name, .input-write-message{
+    margin-right: 25px;
+    padding-left: 20px;
+}
+
+.input-name{
+    width: 330px;
+    height: 44px;
+    border: 2px solid #c0301c;
+}
+.input-name:focus{
+    border: 2px solid #555555;
+}
+
+.input-email, .input-subject, .input-company-name{
+    width: 330px;
+    height: 44px;
+    border: 2px solid #555555;
+}
+
+.input-write-message{
+    width: 715px;
+    height: 104px;
+    border: 2px solid #555555;
+}
+
+.submit-text{
+    color: #555555;
+    font-family: "Roboto Slab" ,sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 24px;
+}

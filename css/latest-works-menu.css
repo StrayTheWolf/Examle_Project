@@ -1,6 +1,7 @@
 .latest-works-menu {
+    display: flex;
+    justify-content: center;
     font-family: 'Montserrat', sans-serif;
-    text-align: center;
     margin-bottom: 65px;
 }
 

@@ -1,11 +1,14 @@
+.blog-content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
 .blog-item {
     padding-bottom: 38px;
     border-bottom: 1px solid #dddddd;
     margin-bottom: 38px;
-}
-
-.blog-image {
-    width: 100%;
 }
 
 .blog-title {

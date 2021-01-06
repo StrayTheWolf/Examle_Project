@@ -3,8 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="1ebd3c14-bfef-4822-920f-6a59217c87a7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/blog-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog-content.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contacts-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacts-block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/latest-works-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/latest-works-menu.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/partner-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partner-block.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/people.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/people.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/top-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/top-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/work-images.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/work-images.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dn" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -47,7 +56,7 @@
       <workItem from="1609748503907" duration="703000" />
       <workItem from="1609833924188" duration="733000" />
       <workItem from="1609836399110" duration="4520000" />
-      <workItem from="1609919842419" duration="5028000" />
+      <workItem from="1609919842419" duration="15207000" />
     </task>
     <servers />
   </component>

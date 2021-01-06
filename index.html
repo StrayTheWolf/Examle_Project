@@ -408,7 +408,7 @@
                 </div>
 
                 <div class="col-2-3">
-                    <div class="clear">
+                    <div class="blog-content">
                         <div class="blog-calendar">
                             <div class="blog-calendar-date">
                                 18
@@ -549,24 +549,30 @@
         <div class="row">
             <div class="col-1-3">
                 <div class="contacts">
-                    <div class="contact-icons-images">
-                        <img src="./images/contacts-icons/map-marker.png" alt="map-marker-icon">
-                    </div>
-                    <div class="contact-type">
-                        Address
+                    <div class="contact-types">
+                        <div class="contact-icons-images">
+                            <img src="./images/contacts-icons/map-marker.png" alt="map-marker-icon">
+                        </div>
+                        <div class="contact-type">
+                            Address
+                        </div>
                     </div>
                     <div class="contact-text">
                         312, 7th Ave, New York
                         <br>
                         NY 101200, United States of America
                     </div>
+
                 </div>
-                <div>
-                    <div class="contact-icons-images">
-                        <img src="./images/contacts-icons/mobile-phone.png" alt="mobile-phone-icon">
-                    </div>
-                    <div class="contact-type">
-                        Hotline (24x7)
+
+                <div class="contacts">
+                    <div class="contact-types">
+                        <div class="contact-icons-images">
+                            <img src="./images/contacts-icons/mobile-phone.png" alt="mobile-phone-icon">
+                        </div>
+                        <div class="contact-type">
+                            Hotline (24x7)
+                        </div>
                     </div>
                     <div class="contact-text">
                         +65 0052 300, +65 88251 210
@@ -576,12 +582,14 @@
                     </div>
                 </div>
 
-                <div>
-                    <div class="contact-icons-images">
-                        <img src="./images/contacts-icons/letter.png" alt="letter-icon">
-                    </div>
-                    <div class="contact-type">
-                        E-mail
+                <div class="contacts">
+                    <div class="contact-types">
+                        <div class="contact-icons-images">
+                            <img src="./images/contacts-icons/letter.png" alt="letter-icon">
+                        </div>
+                        <div class="contact-type">
+                            E-mail
+                        </div>
                     </div>
                     <div class="contact-text">
                         shapedtheme@gmail.com
@@ -590,22 +598,14 @@
                     </div>
                 </div>
             </div>
-            <div>
-                <div class="input-window-small-top">
-                    <input type="text" class="input-name" placeholder="Your name" onfocus="this.placeholder = ''"
-                           onblur="this.placeholder = 'Your name'">
-                    <input type="text" class="input-email" placeholder="Your e-mail">
+            <div class="container">
+                <div class="container-contacts">
+                    <input type="text" class="input-field" placeholder="Your name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your name'">
+                    <input type="text" class="input-field" placeholder="Your e-mail" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your e-mail'">
+                    <input type="text" class="input-field" placeholder="Your subject" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your subject'">
+                    <input type="text" class="input-field" placeholder="Company name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Company name'">
+                    <textarea class="input-write-message" name="" id="" cols="30" rows="10" placeholder="Write your message" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Write your message'"></textarea>
                 </div>
-
-                <div class="input-window-small-bottom">
-                    <input type="text" class="input-subject" placeholder="Your subject">
-                    <input type="text" class="input-company-name" placeholder="Company name">
-                </div>
-
-                <div class="input-window-big">
-                    <input type="text" class="input-write-message" placeholder="Write your message">
-                </div>
-
                 <button class="btn-submit">
                     Send Message
                 </button>

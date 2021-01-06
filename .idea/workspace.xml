@@ -2,66 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ebd3c14-bfef-4822-920f-6a59217c87a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/day6 example.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/block.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/blog-content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/contacts-block.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/image-button.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/latest-works-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/page-bottom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/partner-block.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/people.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/red-content.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/top-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/work-images.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blog/blog-chair.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/blog/blog-table.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-logo/Layer_33.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-logo/logo1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-logo/logo2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-logo/logo4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bottom-logo/logo5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contacts-icons/letter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contacts-icons/map-marker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/contacts-icons/mobile-phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/bicycle2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/book3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/hair1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/notebook2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/photo2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/pigeon1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/red-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/table3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/work1-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/latest-works/workspace.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people/four.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people/one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people/three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/people/two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/red-block-background/background-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/red-block-background/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/scroll-circle-buttons/circle-gray.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/scroll-circle-buttons/circle-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/service-icons/one.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/service-icons/three.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/service-icons/two.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/social/fb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/social/gp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/social/lk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/social/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/twitter-bottom/circle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/twitter-bottom/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/top-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/top-menu.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +46,8 @@
       <workItem from="1609745682308" duration="2773000" />
       <workItem from="1609748503907" duration="703000" />
       <workItem from="1609833924188" duration="733000" />
-      <workItem from="1609836399110" duration="2010000" />
+      <workItem from="1609836399110" duration="4520000" />
+      <workItem from="1609919842419" duration="5028000" />
     </task>
     <servers />
   </component>

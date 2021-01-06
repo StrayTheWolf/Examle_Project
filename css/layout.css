@@ -1,20 +1,29 @@
 .page-header {
-    height: 770px;
+    height: 100vh;
     background-image: url("../images/header.jpg");
 }
 
-.logo {
-    float: left;
+
+.header-container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .top {
-    padding-top: 36px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+    align-items: center;
 }
 
 .header-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: #fff;
     text-align: center;
-    margin-top: 260px;
+    flex-grow: 1;
 }
 
 .header-content-title {

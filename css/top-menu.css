@@ -1,8 +1,11 @@
 .top-menu {
+    display: flex;
     font-family: 'Montserrat', sans-serif;
 }
 
 .top-menu > ul {
+    padding-left: 0;
+    margin: 0;
     display: flex;
     list-style: none;
 }

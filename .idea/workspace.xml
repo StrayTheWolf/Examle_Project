@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ebd3c14-bfef-4822-920f-6a59217c87a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/day6 example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/day6 example.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/blog-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/blog-content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/contacts-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacts-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/image-button.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/image-button.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/latest-works-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/latest-works-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/page-bottom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/page-bottom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/partner-block.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/partner-block.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/red-content.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/red-content.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/top-menu.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/top-menu.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/work-images.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/work-images.css" afterDir="false" />
-    </list>
+    <list default="true" id="1ebd3c14-bfef-4822-920f-6a59217c87a7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,8 +23,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dn" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,6 +46,7 @@
       <workItem from="1609919842419" duration="15207000" />
       <workItem from="1609960759253" duration="3269000" />
       <workItem from="1610011356584" duration="2187000" />
+      <workItem from="1610109279954" duration="7356000" />
     </task>
     <servers />
   </component>

@@ -1,18 +1,18 @@
 .latest-works-menu {
-    display: flex;
-    justify-content: center;
+
     font-family: 'Montserrat', sans-serif;
     margin-bottom: 65px;
 }
 
 .latest-works-menu > ul {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     list-style: none;
-    margin: 0;
-    padding: 0;
 }
 
 .latest-works-menu > ul > li {
-    display: inline;
+    display: inline-block;
     margin-right: 32px;
 }
 

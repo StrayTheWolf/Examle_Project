@@ -16,3 +16,11 @@
     font-size: 30px;
     margin: 0 0 52px;
 }
+
+
+@media (max-width: 980px) {
+    .header-content-text
+    {
+        font-size: 22px;
+    }
+}

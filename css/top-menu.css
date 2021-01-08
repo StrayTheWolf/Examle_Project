@@ -27,3 +27,10 @@
 .top-menu > ul > li > a:hover {
     color: #ccc;
 }
+
+@media (max-width: 980px) {
+    .top-menu > ul{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
